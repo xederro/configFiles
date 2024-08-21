@@ -1,3 +1,4 @@
+kitten icat --align=left /home/xederro/.config/kitty/uwuntu.png | fastfetch --raw - --logo-width 52 --logo-height 30
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
